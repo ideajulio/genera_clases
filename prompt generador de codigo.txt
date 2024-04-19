@@ -1,0 +1,4 @@
+podrias hacer una aplicacion en python que a partir de un script mysql de creacion de tablas que se encuentra en:
+"D:\workspace-python\genera_clases\tablas.sql", genere las clases java correspondientes?
+Los archivos de las clases resultantes deberian guardarse en: "D:\workspace-python\genera_clases\src\modelo"
+deberia crear un un archivo por cada tabla
